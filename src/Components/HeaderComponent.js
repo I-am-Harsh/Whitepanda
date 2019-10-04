@@ -8,7 +8,7 @@ class Header extends React.Component{
                 <Navbar color="light" light expand="md" className ='mb-5'>
                     <div className = 'container'>
                         <NavbarBrand href="/Whitepanda" className='mr-5'>
-                        <img src ={ "assets/logo_whitepanda_dark.png"} height = '100px' alt='logo_lmao' className='mt-0 pr-0' /> 
+                        <img src ={ "assets/1.png"} height = '100px' width = '100px' alt='logo_lmao' className='mt-0 pr-0' /> 
                         </NavbarBrand>
                         <Nav navbar>
                             <NavItem className = 'mr-2'>

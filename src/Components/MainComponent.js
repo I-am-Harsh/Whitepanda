@@ -53,7 +53,7 @@ class Main extends Component{
                     <Header/>
                     <Switch>
                         <Route path = '/Whitepanda' component = {HomePage }/>
-                        <Route exact path = '/info' component = {Redirect}/>
+                        <Route exact path = '/Whitepanda/info' component = {Redirect}/>
                     </Switch>
                     <Footer/>
                 </div>

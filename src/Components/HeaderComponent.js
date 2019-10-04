@@ -12,12 +12,12 @@ class Header extends React.Component{
                         </NavbarBrand>
                         <Nav navbar>
                             <NavItem className = 'mr-2'>
-                                <a href = '/info' className = 'a'>
+                                <a href = '/Whitepanda/info' className = 'a'>
                                     <i className = 'fa fa-bell-o lg'></i>
                                 </a>
                             </NavItem>
                             <NavItem>
-                                <a href = '/info' className = 'a'>
+                                <a href = '/Whitepanda/info' className = 'a'>
                                     <i className = 'fa fa-user-circle-o lg'></i>
                                 </a>
                             </NavItem>

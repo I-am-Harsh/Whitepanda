@@ -12,7 +12,7 @@ const Redirect = () =>{
                         <li>Easy to Update - just add components</li>
                     </ul>
                 </div>
-                <div className = 'row col-md-3'>
+                <div className = 'row'>
                    <b><i>Made by Harsh Verma, VIT</i></b> 
                 </div>
 

@@ -9,10 +9,10 @@ const SideMenu = () => {
                     <a href = '/Whitepanda' className ='a'><img src = {"./assets/grid.png"} alt = 'menu' height = "15px" width='15px'></img></a>
                 </div>
                 <div className='side'>
-                    <a href = '/Whitepanda/info'  className ='a'><i className = 'fa fa-search lg'></i></a>
+                    <a href = '/Whitepanda'  className ='a'><i className = 'fa fa-search lg'></i></a>
                 </div>
                 <div className='side'>
-                    <a href = '/Whitepanda/info'  className ='a'><i className = 'fa fa-gift lg'></i></a>
+                    <a href = '/Whitepanda'  className ='a'><i className = 'fa fa-gift lg'></i></a>
                 </div>
             </div>
         </React.Fragment>

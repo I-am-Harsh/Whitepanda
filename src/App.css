@@ -6,8 +6,6 @@
   .row-content {
     margin:0px auto;
     padding: 10px 0px 10px 0px;
-    border-bottom: 1px ridge;
-    /* min-height:50px; */
   }
   
   .footer{
@@ -17,6 +15,7 @@
 
   .jumbotron {
     padding:10px;
+    background-color: white;
     margin:auto;
   }
   

@@ -5,7 +5,7 @@ class Header extends React.Component{
     render(){
         return(
             <React.Fragment>
-                <Navbar color="light" light expand="md" className ='mb-5'>
+                <Navbar expand="md" className ='mb-5'>
                     <div className = 'container'>
                         <NavbarBrand href="/Whitepanda" className='mr-5'>
                         <img src ={ "assets/1.png"} height = '100px' width = '100px' alt='logo_lmao' className='mt-0 pr-0' /> 

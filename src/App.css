@@ -107,3 +107,7 @@
   a:hover{
     color : #47B8B1;  
   }
+
+  a:active{
+    color : #47B8B1;
+  }

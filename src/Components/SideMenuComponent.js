@@ -6,13 +6,13 @@ const SideMenu = () => {
         <React.Fragment>
             <div className="right-thingy" style = {{marginTop:70}} >
                 <div className="selected">
-                    <a href = '/' className ='a'><img src = {"./assets/grid.png"} alt = 'menu' height = "15px" width='15px'></img></a>
+                    <a href = '/Whitepanda' className ='a'><img src = {"./assets/grid.png"} alt = 'menu' height = "15px" width='15px'></img></a>
                 </div>
                 <div className='side'>
-                    <a href = '/'  className ='a'><i className = 'fa fa-search lg'></i></a>
+                    <a href = '/info'  className ='a'><i className = 'fa fa-search lg'></i></a>
                 </div>
                 <div className='side'>
-                    <a href = '/'  className ='a'><i className = 'fa fa-gift lg'></i></a>
+                    <a href = '/info'  className ='a'><i className = 'fa fa-gift lg'></i></a>
                 </div>
             </div>
         </React.Fragment>

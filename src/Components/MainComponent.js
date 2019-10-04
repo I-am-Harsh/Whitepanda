@@ -18,7 +18,27 @@ class Main extends Component{
             blogdata : Data
         }
     }
+
+    
     render(){
+        const HomePage = () =>{
+            return(
+            <div className = 'container '>
+                <div className = 'row'>
+                    {
+                        Data.map( blogData => {
+                            return(
+                            <div className = 'col-md-4 col-sm-1'>
+                                <Blog name={blogData.name} desc={blogData.desc}
+                                price={blogData.price} img_path = {blogData.img_path}  />
+                            </div>
+                            )
+                        } )
+                    }
+                </div>                    
+            </div>
+            );
+        }
         console.log('can be resolved by adding ID to the data.js and key to the blogComponent')
         return(
             // Import everything here
@@ -32,22 +52,7 @@ class Main extends Component{
                 <div className = 'container ml-0'>
                     <Header/>
                     <Switch>
-                        <Route path = '/'>
-                            <div className = 'container '>
-                                <div className = 'row'>
-                                    {
-                                        Data.map( blogData => {
-                                            return(
-                                            <div className = 'col-md-4 sm-1'>
-                                                <Blog name={blogData.name} desc={blogData.desc}
-                                                price={blogData.price} img_path = {blogData.img_path}  />
-                                            </div>
-                                            )
-                                        } )
-                                    }
-                                </div>                    
-                            </div>
-                        </Route>
+                        <Route path = '/Whitepanda' component = {HomePage }/>
                         <Route exact path = '/info' component = {Redirect}/>
                     </Switch>
                     <Footer/>

@@ -1,22 +1,106 @@
-.App {
-  text-align: center;
-}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+  }
+  
+  .row-content {
+    margin:0px auto;
+    padding: 10px 0px 10px 0px;
+    border-bottom: 1px ridge;
+    /* min-height:50px; */
+  }
+  
+  .footer{
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+  }
 
-.App-logo {
-  height: 40vmin;
-}
+  .jumbotron {
+    padding:10px;
+    margin:auto;
+  }
+  
+  address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+  }
+  
+  .navbar-dark {
+    background-color: #512DA8;
+  }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  .button{
+      width : 120px;
+      color :#47B8B1;
+  }
 
-.App-link {
-  color: #09d3ac;
-}
+
+  .mt-50{
+    margin-top : 120px !important;
+  }
+
+  .green{
+      color: #47B8B1;
+  }
+
+  .grey{
+    color : #7e7070;
+  }
+
+  .vl {
+    border-left: 2px solid black;
+    height: 10px;
+  }
+
+  .center{
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+  }
+
+  .ptsc {
+      margin-right: 1em;
+      font-size: 12px;
+      padding-right: 1em;
+      border-right: solid;
+      border-width: 0.1px;
+  }
+  .ptsc:last-child {
+      border-right: none;
+  }
+  /* .right-thingy {
+    margin-left: 
+  } */
+  .right-thingy div {
+    padding-right: 2em;
+    padding-left: 120px;
+    margin-top : 40px;
+  }
+  .right-thingy .selected {
+    color: lightgreen;
+    height: 15px;
+    border-right: solid 1px green;
+    
+    
+  }
+  .big-container {
+    display: flex;
+  }
+  
+  .side{
+    height: 15px;
+  }
+
+  .round{
+    border-radius: 50%;
+  }
+
+  .container{
+    margin-top : 0px;
+  }
+
+  .order_excel{
+    color : #47B8B1;
+  }

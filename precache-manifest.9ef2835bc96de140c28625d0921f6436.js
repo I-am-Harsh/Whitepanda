@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9326c57d7c8e1ce12204d414e3da1733",
+    "revision": "1bd09a5eee10af398428cd5317cd72ce",
     "url": "/Whitepanda/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Whitepanda/static/css/2.56877a25.chunk.css"
   },
   {
-    "revision": "03090868e70bad1b437e",
+    "revision": "e202b5bcbf58c00220ac",
     "url": "/Whitepanda/static/css/main.2411413a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Whitepanda/static/js/2.1ad32073.chunk.js"
   },
   {
-    "revision": "03090868e70bad1b437e",
-    "url": "/Whitepanda/static/js/main.e0c594c7.chunk.js"
+    "revision": "e202b5bcbf58c00220ac",
+    "url": "/Whitepanda/static/js/main.0fa25b8d.chunk.js"
   },
   {
     "revision": "09875d97d5858cd6a5ec",

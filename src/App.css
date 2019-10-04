@@ -110,3 +110,24 @@
   a:active{
     color : #47B8B1;
   }
+
+
+  @media screen and (max-width: 800px) {
+    body {
+      background-color:white;
+       
+    }
+    .right-thingy .selected{
+      height: auto;
+
+    }
+    .right-thingy div{
+      padding-right: 1em;
+      padding-left: 1em;   
+    }
+
+    .mr-5{
+      margin-right: 10px !important;
+      padding-right : 0px;
+    }
+  }

@@ -12,10 +12,14 @@ class Header extends React.Component{
                         </NavbarBrand>
                         <Nav navbar>
                             <NavItem className = 'mr-2'>
-                                <i className = 'fa fa-bell-o lg'></i> 
+                                <a href = '/' className = 'a'>
+                                    <i className = 'fa fa-bell-o lg'></i>
+                                </a>
                             </NavItem>
                             <NavItem>
-                                <i className = 'fa fa-user-circle-o lg'></i>
+                                <a href = '/' className = 'a'>
+                                    <i className = 'fa fa-user-circle-o lg'></i>
+                                </a>
                             </NavItem>
                         </Nav>
                     </div>
@@ -35,7 +39,7 @@ class Header extends React.Component{
                             <p className = 'faded'>
                                 If you are wondering about an easy way to place orders  in large numbers, we provide a way customized
                                 just for that. Download our excel sheet , and fill the order brief in the prescribed format and submit.
-                                In case you need any help, <u>we are just a click away</u>
+                                In case you need any help, <a href = '/' className = 'a'><u>we are just a click away</u></a>
                             </p>
                             <Button outline color = 'success' className = 'order_excel'> Order via excel sheet</Button>
                         </div>

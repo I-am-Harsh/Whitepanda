@@ -25,11 +25,6 @@
     margin:0px;
     color:#0f0f0f;
   }
-  
-  .navbar-dark {
-    background-color: #512DA8;
-  }
-
   .button{
       width : 120px;
       color :#47B8B1;
@@ -103,4 +98,12 @@
 
   .order_excel{
     color : #47B8B1;
+  }
+
+  .a{
+    color : black;
+  }
+
+  a:hover{
+    color : #47B8B1;  
   }

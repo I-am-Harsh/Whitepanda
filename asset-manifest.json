@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Whitepanda/static/css/main.2411413a.chunk.css",
-    "main.js": "/Whitepanda/static/js/main.be1ba2b2.chunk.js",
-    "main.js.map": "/Whitepanda/static/js/main.be1ba2b2.chunk.js.map",
+    "main.css": "/Whitepanda/static/css/main.17a7399e.chunk.css",
+    "main.js": "/Whitepanda/static/js/main.147a4b5e.chunk.js",
+    "main.js.map": "/Whitepanda/static/js/main.147a4b5e.chunk.js.map",
     "runtime-main.js": "/Whitepanda/static/js/runtime-main.f9234f66.js",
     "runtime-main.js.map": "/Whitepanda/static/js/runtime-main.f9234f66.js.map",
     "static/css/2.56877a25.chunk.css": "/Whitepanda/static/css/2.56877a25.chunk.css",
     "static/js/2.1ad32073.chunk.js": "/Whitepanda/static/js/2.1ad32073.chunk.js",
     "static/js/2.1ad32073.chunk.js.map": "/Whitepanda/static/js/2.1ad32073.chunk.js.map",
     "index.html": "/Whitepanda/index.html",
-    "precache-manifest.d865049fe875999613d6e7978f9f9189.js": "/Whitepanda/precache-manifest.d865049fe875999613d6e7978f9f9189.js",
+    "precache-manifest.1a9c84859ad36376778c39335e52d5d4.js": "/Whitepanda/precache-manifest.1a9c84859ad36376778c39335e52d5d4.js",
     "service-worker.js": "/Whitepanda/service-worker.js",
     "static/css/2.56877a25.chunk.css.map": "/Whitepanda/static/css/2.56877a25.chunk.css.map",
-    "static/css/main.2411413a.chunk.css.map": "/Whitepanda/static/css/main.2411413a.chunk.css.map",
+    "static/css/main.17a7399e.chunk.css.map": "/Whitepanda/static/css/main.17a7399e.chunk.css.map",
     "static/media/font-awesome.min.css": "/Whitepanda/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.f9234f66.js",
     "static/css/2.56877a25.chunk.css",
     "static/js/2.1ad32073.chunk.js",
-    "static/css/main.2411413a.chunk.css",
-    "static/js/main.be1ba2b2.chunk.js"
+    "static/css/main.17a7399e.chunk.css",
+    "static/js/main.147a4b5e.chunk.js"
   ]
 }
